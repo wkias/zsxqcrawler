@@ -1,4 +1,5 @@
 pangu
-requests
 pyquery
 loguru
+tomd
+beautifulsoup4
